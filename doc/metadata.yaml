@@ -6,5 +6,7 @@ homepage: false
 images:
 - doc/img/CLK1PLL01A_QRcode.png
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: CLK1PLL01
