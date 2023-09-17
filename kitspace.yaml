@@ -5,4 +5,7 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/CLK1PLL01
-summary: null
+summary: PLL clock generator with Texas Instruments chip CDCE913. Contains VCXO with
+  external xtal andone internal PLL. It has three LVCMOS outputs with individual frequency
+  dividers capable togenerate ut to 230MHz clocks. The chip is programmable via I2C
+  and configuration may be savedto internal EEPROM.

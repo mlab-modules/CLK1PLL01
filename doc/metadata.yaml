@@ -1,4 +1,7 @@
-description: null
+description: PLL clock generator with Texas Instruments chip CDCE913. Contains VCXO
+  with external xtal andone internal PLL. It has three LVCMOS outputs with individual
+  frequency dividers capable togenerate ut to 230MHz clocks. The chip is programmable
+  via I2C and configuration may be savedto internal EEPROM.
 github_branch: CLK1PLL01A
 github_repo: CLK1PLL01
 github_url: https://github.com/mlab-modules/CLK1PLL01
